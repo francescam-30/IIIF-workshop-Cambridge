@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 25,
+    "height" : 32
+  }, {
+    "width" : 49,
+    "height" : 64
+  }, {
+    "width" : 97,
+    "height" : 127
+  }, {
+    "width" : 193,
+    "height" : 253
+  }, {
+    "width" : 386,
+    "height" : 506
+  }, {
+    "width" : 772,
+    "height" : 1011
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 772,
+  "@id" : "https://francescam-30.github.io/IIIF-workshop-Cambridge/images/IIIF-workshop_Cambridge",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1011
+}
